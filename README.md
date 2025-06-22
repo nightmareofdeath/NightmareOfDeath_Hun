@@ -1,3 +1,16 @@
+Changes in 1.3
+
+Fred's tactican notes was fixed in case of name change.
+Fred got a new fan picture.
+Fred, Vivien and Yume got their own fan picutre in Characters menu instead of the original RPG Maker picture.
+
+3. dream
+  - fixed too many word repetition in tactican suggestion from Yume.
+
+6. dream
+  - more text fields were moved from down to up because they covered up the characters in the map.
+
+-----------------------------------------------------------------------
 Changes in 1.2
 
 Save changes: auto saving is deleted and fix save points are used close to starting points. In every dream the player can save with the help of an special item.
